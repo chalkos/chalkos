@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🖥️ I've been coding in Java primarily for over 8 years
+🌱 I've also used C# to make mods for games I enjoy
+
 <!--
 **chalkos/chalkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
